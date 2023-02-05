@@ -1,6 +1,6 @@
-package com.zinzza.javaoop.service;
+package com.zinzza.springpractice.service;
 
-import com.zinzza.javaoop.logic.JavaSort;
+import com.zinzza.springpractice.logic.JavaSort;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;

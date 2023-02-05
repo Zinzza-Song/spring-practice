@@ -1,4 +1,4 @@
-package com.zinzza.javaoop.logic;
+package com.zinzza.springpractice.logic;
 
 import java.util.List;
 

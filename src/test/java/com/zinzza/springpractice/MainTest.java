@@ -1,4 +1,4 @@
-package com.zinzza.javaoop;
+package com.zinzza.springpractice;
 
 import org.junit.jupiter.api.Test;
 
